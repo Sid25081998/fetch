@@ -3,5 +3,5 @@
   "version": "---Version---",
   "author": "---Author---",
   "description": "---Description---",
-  "main": "node.js",
+  "main": "---src---",
 }
